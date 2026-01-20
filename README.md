@@ -1,4 +1,5 @@
-## Hi there 👋
+## Joshua Detmer 
+Hi all, I'm currently a student at the University of Virginia studying Data Science and Applied Statistics. This GitHub is where I post my class repos and some of my personal projects. 
 
 <!--
 **JedDataScience/JedDataScience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
