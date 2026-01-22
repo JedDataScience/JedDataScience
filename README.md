@@ -1,4 +1,4 @@
-## Hey, I Josh 
+## Joshua Detmer
 
 I’m a student at the University of Virginia (UVA), double majoring in **Data Science** and **Applied Statistics**. I’m really interested in how data can be used to understand what’s happening in the real world by asking better questions and testing ideas the right way.
 
