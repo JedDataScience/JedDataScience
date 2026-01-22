@@ -1,17 +1,39 @@
-## Joshua Detmer 
-Hi all, I'm currently a student at the University of Virginia studying Data Science and Applied Statistics. This GitHub is where I post my class repos and some of my personal projects. 
+# Hey, I’m Josh 
 
-<!--
-**JedDataScience/JedDataScience** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a student at the University of Virginia (UVA), double majoring in **Data Science** and **Applied Statistics**. I’m really interested in how data can be used to understand what’s happening in the real world by asking better questions and testing ideas the right way.
 
-Here are some ideas to get you started:
+Outside of school, I’m big on anything outdoors. I love **hiking**, **skiing**, and pretty much anything that gets me outside and moving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## What I’m interested in
+A lot of my curiosity lives in the space between “data” and “decision-making.” I’m especially into:
+
+- **Experimentation & A/B testing** 
+- **Statistical data science** 
+- **Inference + modeling/Dashboards** 
+- **Clean data storytelling** 
+
+I like projects where the point isn’t just making a graph or training a model. It’s more about answering a question with evidence. That usually means exploring patterns, validating them with statistical reasoning, and building a clean, repeatable workflow so the results are solid and easy to share.
+
+---
+
+## What you’ll find here
+This GitHub is where I’ll be posting:
+- **Classwork from UVA**
+- **Personal projects** I build on my own time
+- Practice work as I keep leveling up in Python, stats, and analytics
+
+I’m always trying to improve how I write code and communicate results, so a lot of what’s here will be me learning in public and building better habits over time.
+
+---
+
+## Tools I use (and keep improving at)
+- **Python** (pandas, NumPy, matplotlib, seaborn)
+- **R**
+- **SQL**
+- **Git/GitHub**
+- Jupyter / VS Code
+- Azure services
+
+---
